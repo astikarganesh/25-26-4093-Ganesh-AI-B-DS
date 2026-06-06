@@ -37,6 +37,7 @@ Bar graph
 Scattered graph
 Histogram 
 Pie chart
+
 Week 3 : 17.02.2026
 Write the code to implement the following operations on any data set reading from URL
 Data filtering 
